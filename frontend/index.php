@@ -1,5 +1,5 @@
 <?php 
-include("../library/fungsi.php");
+include("/data/library/fungsi.php");
 echo'<br>';
 echo'frontend';
 ?>
